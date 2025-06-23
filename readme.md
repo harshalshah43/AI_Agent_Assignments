@@ -1,7 +1,7 @@
 
 # AI Agent Assignments
 
-This project contains code for an AI Travel Agent & Expense Planner using LangGraph and external APIs.
+This project contains code for an AI Travel Agent & Expense Planner using LangGraph and external APIs such as GEOAPIFY and AMADEUS.
 
 ## 🌟 Features
 - Generates real-time travel itineraries for any city worldwide
